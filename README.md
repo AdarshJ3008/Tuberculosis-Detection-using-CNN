@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tuberculosis Detection Using Deep Learning</title>
 </head>
 <body>
     <h1>Tuberculosis Detection Using Deep Learning</h1>
