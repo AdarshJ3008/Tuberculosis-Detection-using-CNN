@@ -55,8 +55,8 @@ cd tuberculosis-detection</code></pre>
     <p>The notebook will guide you through the entire process of training the TB detection model and evaluating its performance on the validation dataset. The final output includes accuracy, confusion matrix, and a classification report.</p>
 
 <div class=image-container > 
-<img src="" alt="Description of Image" width="500" height="300"> </img>
-<img src="body_description2.png" alt="Description of Image" width="500" height="300"> </img>
+<img src="resnet50.png" alt="Description of Image" width="500" height="300"> </img>
+<img src="Confusion_Matrix-VGG19.png" alt="Description of Image" width="500" height="300"> </img>
 </div>
 
 <style>
