@@ -53,10 +53,22 @@ cd tuberculosis-detection</code></pre>
 
   <h2>Results</h2>
     <p>The notebook will guide you through the entire process of training the TB detection model and evaluating its performance on the validation dataset. The final output includes accuracy, confusion matrix, and a classification report.</p>
-
+<img src="graph.jpeg" alt="Description of Image" width="500" height="300"> </img>
 <div class=image-container > 
-<img src="resnet50.png" alt="Description of Image" width="500" height="300"> </img>
+
+<img src="resnet50.jpeg" alt="Description of Image" width="500" height="300"> </img>
 <img src="Confusion_Matrix-VGG19.png" alt="Description of Image" width="500" height="300"> </img>
+<hr>
+<img src="Confusion_Matrix-InceptionV3.png" alt="Description of Image" width="500" height="300"> </img>
+<img src="Confusion_Matrix-Xception.png" alt="Description of Image" width="500" height="300"> </img>
+<hr>
+<img src="Confusion_Matrix-DenseNet121.png" alt="Description of Image" width="500" height="300"> </img>
+<img src="Confusion_Matrix-MobileNetV2.png" alt="Description of Image" width="500" height="300"> </img>
+<hr>
+<img src="Confusion_Matrix-EfficientNetB2.png" alt="Description of Image" width="500" height="300"> </img>
+<img src="Confusion_Matrix-MobileNet.png" alt="Description of Image" width="500" height="300"> </img>
+<hr>
+<img src="Confusion_Matrix-VGG16.png" alt="Description of Image" width="500" height="300"> </img>
 </div>
 
 <style>
