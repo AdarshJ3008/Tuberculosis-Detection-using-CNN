@@ -52,7 +52,11 @@ cd tuberculosis-detection</code></pre>
 
   <h2>Results</h2>
     <p>The notebook will guide you through the entire process of training the TB detection model and evaluating its performance on the validation dataset. The final output includes accuracy, confusion matrix, and a classification report.</p>
+  <hr>
+  <h3>Model Accuracy Comparison Graph</h3>
 <img src="graph.jpeg" alt="Description of Image" width="500" height="300"> </img>
+  <hr>
+  <h3>Confusion Matrix of each Model</h3>
 <div class=image-container > 
 
 <img src="resnet50.jpeg" alt="Description of Image" width="500" height="300"> </img>
@@ -69,13 +73,7 @@ cd tuberculosis-detection</code></pre>
 <hr>
 <img src="Confusion_Matrix-VGG16.png" alt="Description of Image" width="500" height="300"> </img>
 </div>
-
-<style>
-      .image-container {
-            display: inline-block;
-            margin-right: 80px;     
-        }
-</style>
+<div style="display: flex; gap: 20px;">
 
   <h2>Contributing</h2>
     <p>Contributions are welcome! Please fork the repository and submit pull requests.</p>
